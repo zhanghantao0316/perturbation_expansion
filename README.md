@@ -31,7 +31,7 @@ If you want to change these constants, please directly modify them in the  file
 
 
 ## 3. Green's functions and their limitations at r ->0 
-Please note that we have rigorously handled the limits of the Green's functions GC0 (Coulomb Green's funtion) and GHO (harmonic  oscillator Green's function) as r approaches zero, with the analytical results defined limitGC0 a and limitGHO
+Please note that we have rigorously handled the limits of the Green's functions GC0 (Coulomb Green's funtion) and GHO (harmonic  oscillator Green's function) as r approaches zero, with the analytical results defined limitGC0 and limitGHO
 
 ## 4. Integration Parameters
 | Parameter   | Value  | Description                          |
