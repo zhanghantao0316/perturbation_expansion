@@ -1,0 +1,15 @@
+1000 sampling points in MC integral
+
+Result for order 1: mean = 0.006176250852094281, error= 4.727596316538002e-06
+Result for order 2: mean = 0.003441038567351073, standard deviation = 1.3509471721402348e-05
+Result for order 3: mean = 0.0017485186469569946, standard deviation = 1.025803663681298e-05
+Result for order 4: mean = 0.0008954682345159977, standard deviation = 8.856426727330752e-06
+Result for order 5: mean = 0.0004428799428612809, standard deviation = 6.70021587484229e-06
+Result for order 6: mean = 0.00021254176213666363, standard deviation = 4.640496888639116e-06
+Result for order 7: mean = 9.405082424935343e-05, standard deviation = 3.17552983548021e-06
+Result for order 8: mean = 3.543932272625584e-05, standard deviation = 1.8752533659168825e-06
+Result for order 9: mean = 1.647701984378556e-05, standard deviation = 1.1897212552911876e-06
+Result for order 10: mean = 4.508079146391459e-06, standard deviation = 7.423648193484165e-07
+Result for order 11: mean = 2.018942752516171e-06, standard deviation = 4.7538354353381986e-07
+Result for order 12: mean = 3.791158139943907e-07, standard deviation = 2.139988258991868e-07
+phase shift at 1.13686339692962 MeV = 47.720722961970048104 deg
