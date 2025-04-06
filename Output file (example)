@@ -5,10 +5,10 @@ omega=1 MeV
 ## Integration Parameters
 | Parameter   | Value  | Description                          |
 |-------------|--------|--------------------------------------|
-| `rmax1`     | 1e3 fm | Upper limit for 1st-order (quad)     |
-| `rmax`      | 1e2 fm | Upper limit for 2–12th orders (VEGAS) |
-| `nitn`      | 20     | VEGAS adaptive iterations            |
-| `nevalvalue`| 1e3    | Function evaluations per iteration (sampling points)   |
+|  rmax1      | 1e3 fm | Upper limit for 1st-order (quad)     |
+|  rmax       | 1e2 fm | Upper limit for 2–12th orders (VEGAS) |
+|  nitn       | 20     | VEGAS adaptive iterations            |
+|  nevalvalue | 1e3    | Function evaluations per iteration (sampling points)   |
 
 Result for order 1: mean = 0.006176250852094281, error= 4.727596316538002e-06
 Result for order 2: mean = 0.003441038567351073, standard deviation = 1.3509471721402348e-05
