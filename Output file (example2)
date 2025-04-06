@@ -1,0 +1,47 @@
+L=0
+E=3.410590190788860 MeV
+omega=3 MeV
+
+## Integration Parameters
+| Parameter   | Value  | Description                          |
+|-------------|--------|--------------------------------------|
+|  rmax1      | 1e3 fm | Upper limit for 1st-order (quad)     |
+|  rmax       | 1e2 fm | Upper limit for 2–12th orders (VEGAS) |
+|  nitn       | 20     | VEGAS adaptive iterations            |
+|  nevalvalue | 1e3    | Function evaluations per iteration (sampling points)   |
+
+Result for order 1: mean = 0.0061724081865793656, error= 5.189452579524551e-07
+Result for order 2: mean = 0.0019845005795924115, standard deviation = 1.0696176572994958e-05
+Result for order 3: mean = 0.0005748380610595535, standard deviation = 5.195588677661792e-06
+Result for order 4: mean = 0.0001693193000800568, standard deviation = 2.468272952128729e-06
+Result for order 5: mean = 4.718187193337075e-05, standard deviation = 1.1031910697717755e-06
+Result for order 6: mean = 1.273391072298935e-05, standard deviation = 4.987270279412732e-07
+Result for order 7: mean = 2.671208946765711e-06, standard deviation = 1.9363801463497322e-07
+Result for order 8: mean = 7.230102200397731e-07, standard deviation = 8.174683071472864e-08
+Result for order 9: mean = 1.6180974321939293e-07, standard deviation = 2.9108519012688582e-08
+Result for order 10: mean = 3.35697639197975e-08, standard deviation = 1.1824769139532999e-08
+Result for order 11: mean = -4.565574297793204e-11, standard deviation = 2.368900756651534e-09
+Result for order 12: mean = 1.7343053646794906e-09, standard deviation = 1.306798135478348e-09
+
+
+## Integration Parameters
+| Parameter   | Value  | Description                          |
+|-------------|--------|--------------------------------------|
+|  rmax1      | 1e3 fm | Upper limit for 1st-order (quad)     |
+|  rmax       | 1e2 fm | Upper limit for 2–12th orders (VEGAS) |
+|  nitn       | 20     | VEGAS adaptive iterations            |
+|  nevalvalue | 1e4    | Function evaluations per iteration (sampling points)   |
+
+
+Result for order 1: mean = 0.0061724081865793656, error= 5.189452579524551e-07
+Result for order 2: mean = 0.0019987956752536323, standard deviation = 2.4522874240185317e-06
+Result for order 3: mean = 0.0005803353131199953, standard deviation = 1.3802817516260043e-06
+Result for order 4: mean = 0.00017006588262458196, standard deviation = 6.794645867234274e-07
+Result for order 5: mean = 5.098893477910391e-05, standard deviation = 3.275648639483752e-07
+Result for order 6: mean = 1.4752486351073284e-05, standard deviation = 1.3898058256317912e-07
+Result for order 7: mean = 4.08488108708003e-06, standard deviation = 6.318742761889117e-08
+Result for order 8: mean = 1.2275828737543173e-06, standard deviation = 3.1826025953983464e-08
+Result for order 9: mean = 3.515437206979675e-07, standard deviation = 1.4211128720200505e-08
+Result for order 10: mean = 9.969839581525132e-08, standard deviation = 6.506924203516187e-09
+Result for order 11: mean = 1.842320759507621e-08, standard deviation = 2.2318667466633237e-09
+Result for order 12: mean = 3.762618038037526e-09, standard deviation = 7.997927170459766e-10
