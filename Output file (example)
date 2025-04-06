@@ -1,3 +1,7 @@
+L=0
+E=1.136863396929620 MeV
+omega=1 MeV
+
 1000 sampling points in MC integral
 
 Result for order 1: mean = 0.006176250852094281, error= 4.727596316538002e-06
