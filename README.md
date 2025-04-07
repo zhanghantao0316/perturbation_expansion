@@ -1,6 +1,8 @@
 # Coulomb-corrected BERW formula 
 Relevant content can be found in the paper "Charged particle scattering in harmonic traps"  by Hantao Zhang, Dong Bai, Zhen Wang, Zhongzhou Ren and the paper "Coupled-channels reactions for charged particles in harmonic traps"
 by Hantao Zhang, Dong Bai, Zhongzhou Ren
+修改为：
+# Trap optimization for Nuclear-scattering with Generalized Harmonic Algorithm Interface (TONGHAI)
 
 ## PERTURBATION EXPANSION
 ### Written by Hantao Zhang, Dong Bai and Zhongzhou Ren
