@@ -34,7 +34,7 @@ if __name__ == "__main__":
     def Mi(E,L):
           Mi = (GreenFunctionCalculator.Cl0(L) ** 2 / GreenFunctionCalculator.Cl(E,L) ** 2) * ( -(2 ** (2 * L + 2)) * ( gamma(L + 3/2) ** 2) /((2 * params.mu) / (params.HBar_c ** 2)) /(GreenFunctionCalculator.k(E) ** (2 * L + 1)) / np.pi) 
           return Mi
-    # 计算总相移
+    # Calculate the phase shift
     M0val = M0(params.E, params.L, params.omega)  # value of M0
     Mival = Mi(params.E,params.L)  # value of Mi
     M_total = M0val + np.sum(results) * Mival # summation as final result
