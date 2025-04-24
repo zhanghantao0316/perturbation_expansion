@@ -19,15 +19,7 @@ pip install vegas==6.2.1
 ```
 
 ## 2. Physical Constants
-Constants are defined in natural units (MeV and fm):
-```bash
-HBar_c = 197.327053  # Reduced Planck constant 
-e2 = 1 / (8.854187817e-12 * 4 * np.pi) * 1.6021766e-19 * 1e9  # Coulomb constant 
-amu = 938.918  # Atomic mass unit 
-mu = (m1*m2)*amu/(m1+m2)  # Reduced mass
-Z = -Z1 * Z2 * e2  # Coulomb interaction strength
-```
-If you want to change these constants, please directly modify them in the  file
+Constants are defined in common units (MeV and fm), if you want to change these constants, please directly modify them in the cofig.py file
 
 
 ## 3. Green's functions and their limitations at r ->0 
