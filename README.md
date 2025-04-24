@@ -19,7 +19,7 @@ pip install vegas==6.2.1
 ```
 
 ## 2. Physical Constants
-Constants are defined in common units (MeV and fm), if you want to change these constants, please directly modify them in the cofig.py file
+Constants are defined in common units (MeV and fm), if you want to change these constants, please directly modify them in the config.py file
 
 
 ## 3. Green's functions and their limitations at r ->0 
